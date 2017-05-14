@@ -1,4 +1,4 @@
-FROM users/curran/projects/marketplace
+FROM reactioncommerce/base:v1.3.0
 
 # Default environment variables
 ENV ROOT_URL "http://localhost"
